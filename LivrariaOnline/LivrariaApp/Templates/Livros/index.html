@@ -1,0 +1,29 @@
+﻿<div ng-controller="HomeController" style="margin-top:2em">
+    <section class="container-fluid">
+        <section class="panel panel-default">
+            <header class="panel-heading">
+                <h3>Painel do Home</h3>
+            </header>
+            <div class="panel-body">
+                <table class="table table-striped">
+                    <thead>
+                        <tr>
+                            <th>Livro</th>
+                            <th>Autor</th>
+                            <th>ISBN</th>
+                            <th>Editora</th>
+                        </tr>
+                    </thead>
+                    <tbody ng-repeat="livro in livros">
+                        <tr>
+                            <td>{{livro.titulo}}</td>
+                            <td>{{livro.autor}}</td>
+                            <td>{{livro.ISBN}}</td>
+                            <td>{{livro.editora}}</td>
+                        </tr>
+                    </tbody>
+                </table>
+            </div>
+        </section>
+    </section>
+</div>

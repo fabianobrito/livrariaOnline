@@ -1,0 +1,8 @@
+C:\Users\fabia\Desktop\processo_seletivo\LivrariaOnline\Modelo\bin\Debug\Modelo.dll
+C:\Users\fabia\Desktop\processo_seletivo\LivrariaOnline\Modelo\bin\Debug\Modelo.pdb
+C:\Users\fabia\Desktop\processo_seletivo\LivrariaOnline\Modelo\bin\Debug\EntityFramework.dll
+C:\Users\fabia\Desktop\processo_seletivo\LivrariaOnline\Modelo\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\fabia\Desktop\processo_seletivo\LivrariaOnline\Modelo\bin\Debug\EntityFramework.xml
+C:\Users\fabia\Desktop\processo_seletivo\LivrariaOnline\Modelo\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\fabia\Desktop\processo_seletivo\LivrariaOnline\Modelo\obj\Debug\Modelo.dll
+C:\Users\fabia\Desktop\processo_seletivo\LivrariaOnline\Modelo\obj\Debug\Modelo.pdb

@@ -1,0 +1,41 @@
+﻿<!DOCTYPE html>
+<html lang="pt-br" ng-app="app">
+<head>
+    <base href="/"/>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+    <meta name="author" content="Fabiano Farah" />
+    <meta name="description" content="Projeto para processo seletivo livraria" />
+    <title>BackFlush | @ViewBag.Title</title>
+    <link rel="stylesheet" href="http://fonts.googleapis.com/css?family=Source+Sans+Pro:300,400,400italic,600,700%7COpen+Sans:300,400,400italic,600,700">
+    <link rel="stylesheet" href="@Url.Content("~/Content/bootstrap.min.css")">
+    <script src="~/Scripts/angular.min.js"></script>
+    <script src="~/Scripts/angular-route.min.js"></script>
+    <script src="~/AngularApp/app.js"></script>
+    <script src="~/AngularApp/controllers/home-controller.js"></script>
+</head>
+<body>
+    <div id="page-container" class="sidebar-l side-scroll header-navbar-fixed">
+        <nav class="navbar navbar-inverse navbar-fixed-top">
+            <div class="container-fluid">
+                <div class="navbar-header">
+                    <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar" aria-expanded="false" aria-controls="navbar">
+                        <span class="sr-only">Toggle navigation</span>
+                        <span class="icon-bar"></span>
+                        <span class="icon-bar"></span>
+                        <span class="icon-bar"></span>
+                    </button>
+                    <a class="navbar-brand" href="#">Livraria Online</a>
+                </div>                
+            </div>
+        </nav>
+        <main id="main-container">
+            <div class="content content-boxed">
+                <ng-view></ng-view>
+                @RenderBody()
+            </div>
+        </main>
+        <footer></footer>
+    </div>
+</body>
+</html>

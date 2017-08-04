@@ -1,0 +1,11 @@
+C:\Users\fabia\Desktop\processo_seletivo\LivrariaOnline\Servico\bin\Debug\Servico.dll
+C:\Users\fabia\Desktop\processo_seletivo\LivrariaOnline\Servico\bin\Debug\Servico.pdb
+C:\Users\fabia\Desktop\processo_seletivo\LivrariaOnline\Servico\bin\Debug\Modelo.dll
+C:\Users\fabia\Desktop\processo_seletivo\LivrariaOnline\Servico\bin\Debug\Persistencia.dll
+C:\Users\fabia\Desktop\processo_seletivo\LivrariaOnline\Servico\bin\Debug\EntityFramework.dll
+C:\Users\fabia\Desktop\processo_seletivo\LivrariaOnline\Servico\bin\Debug\Modelo.pdb
+C:\Users\fabia\Desktop\processo_seletivo\LivrariaOnline\Servico\bin\Debug\Persistencia.pdb
+C:\Users\fabia\Desktop\processo_seletivo\LivrariaOnline\Servico\bin\Debug\EntityFramework.xml
+C:\Users\fabia\Desktop\processo_seletivo\LivrariaOnline\Servico\obj\Debug\Servico.csprojResolveAssemblyReference.cache
+C:\Users\fabia\Desktop\processo_seletivo\LivrariaOnline\Servico\obj\Debug\Servico.dll
+C:\Users\fabia\Desktop\processo_seletivo\LivrariaOnline\Servico\obj\Debug\Servico.pdb

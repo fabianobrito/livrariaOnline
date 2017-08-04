@@ -1,0 +1,14 @@
+C:\Users\fabia\Desktop\processo_seletivo\LivrariaOnline\Persistencia\bin\Debug\Persistencia.dll.config
+C:\Users\fabia\Desktop\processo_seletivo\LivrariaOnline\Persistencia\bin\Debug\Persistencia.dll
+C:\Users\fabia\Desktop\processo_seletivo\LivrariaOnline\Persistencia\bin\Debug\Persistencia.pdb
+C:\Users\fabia\Desktop\processo_seletivo\LivrariaOnline\Persistencia\bin\Debug\EntityFramework.dll
+C:\Users\fabia\Desktop\processo_seletivo\LivrariaOnline\Persistencia\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\fabia\Desktop\processo_seletivo\LivrariaOnline\Persistencia\bin\Debug\Modelo.dll
+C:\Users\fabia\Desktop\processo_seletivo\LivrariaOnline\Persistencia\bin\Debug\Modelo.pdb
+C:\Users\fabia\Desktop\processo_seletivo\LivrariaOnline\Persistencia\bin\Debug\EntityFramework.xml
+C:\Users\fabia\Desktop\processo_seletivo\LivrariaOnline\Persistencia\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\fabia\Desktop\processo_seletivo\LivrariaOnline\Persistencia\obj\Debug\Persistencia.csprojResolveAssemblyReference.cache
+C:\Users\fabia\Desktop\processo_seletivo\LivrariaOnline\Persistencia\obj\Debug\Persistencia.Migrations.livraria.resources
+C:\Users\fabia\Desktop\processo_seletivo\LivrariaOnline\Persistencia\obj\Debug\Persistencia.csproj.GenerateResource.Cache
+C:\Users\fabia\Desktop\processo_seletivo\LivrariaOnline\Persistencia\obj\Debug\Persistencia.dll
+C:\Users\fabia\Desktop\processo_seletivo\LivrariaOnline\Persistencia\obj\Debug\Persistencia.pdb

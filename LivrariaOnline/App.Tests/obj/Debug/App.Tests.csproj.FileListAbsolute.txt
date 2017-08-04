@@ -1,0 +1,5 @@
+C:\Users\fabia\Desktop\processo_seletivo\LivrariaOnline\App.Tests\bin\Debug\App.Tests.dll
+C:\Users\fabia\Desktop\processo_seletivo\LivrariaOnline\App.Tests\bin\Debug\App.Tests.pdb
+C:\Users\fabia\Desktop\processo_seletivo\LivrariaOnline\App.Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\fabia\Desktop\processo_seletivo\LivrariaOnline\App.Tests\obj\Debug\App.Tests.dll
+C:\Users\fabia\Desktop\processo_seletivo\LivrariaOnline\App.Tests\obj\Debug\App.Tests.pdb

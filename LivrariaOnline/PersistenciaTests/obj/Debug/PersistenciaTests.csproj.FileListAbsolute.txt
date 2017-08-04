@@ -1,0 +1,15 @@
+C:\Users\fabia\Desktop\processo_seletivo\LivrariaOnline\PersistenciaTests\bin\Debug\PersistenciaTests.dll.config
+C:\Users\fabia\Desktop\processo_seletivo\LivrariaOnline\PersistenciaTests\bin\Debug\PersistenciaTests.dll
+C:\Users\fabia\Desktop\processo_seletivo\LivrariaOnline\PersistenciaTests\bin\Debug\PersistenciaTests.pdb
+C:\Users\fabia\Desktop\processo_seletivo\LivrariaOnline\PersistenciaTests\bin\Debug\EntityFramework.dll
+C:\Users\fabia\Desktop\processo_seletivo\LivrariaOnline\PersistenciaTests\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\fabia\Desktop\processo_seletivo\LivrariaOnline\PersistenciaTests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\fabia\Desktop\processo_seletivo\LivrariaOnline\PersistenciaTests\bin\Debug\Modelo.dll
+C:\Users\fabia\Desktop\processo_seletivo\LivrariaOnline\PersistenciaTests\bin\Debug\Persistencia.dll
+C:\Users\fabia\Desktop\processo_seletivo\LivrariaOnline\PersistenciaTests\bin\Debug\Modelo.pdb
+C:\Users\fabia\Desktop\processo_seletivo\LivrariaOnline\PersistenciaTests\bin\Debug\Persistencia.pdb
+C:\Users\fabia\Desktop\processo_seletivo\LivrariaOnline\PersistenciaTests\bin\Debug\EntityFramework.xml
+C:\Users\fabia\Desktop\processo_seletivo\LivrariaOnline\PersistenciaTests\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\fabia\Desktop\processo_seletivo\LivrariaOnline\PersistenciaTests\obj\Debug\PersistenciaTests.csprojResolveAssemblyReference.cache
+C:\Users\fabia\Desktop\processo_seletivo\LivrariaOnline\PersistenciaTests\obj\Debug\PersistenciaTests.dll
+C:\Users\fabia\Desktop\processo_seletivo\LivrariaOnline\PersistenciaTests\obj\Debug\PersistenciaTests.pdb
